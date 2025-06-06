@@ -17,15 +17,13 @@
     <a href="mailto:[seu-email]" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://linkedin.com/in/mateus-santos-73710a164" target="_blank">
+<a href="https://linkedin.com/in/mateus-santos-73710a164" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.instagram.com/mateoh_sld/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    </p>
-
-<br>
+</a>
+<a href="https://www.instagram.com/mateoh_sld/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+</p>
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
@@ -37,7 +35,6 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     </a>
-    <p align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
@@ -50,7 +47,6 @@
     <a href="#">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
-</p>
     <a href="#">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
     </a>
